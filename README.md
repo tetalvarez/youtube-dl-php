@@ -41,7 +41,7 @@ ID          | Default | Type    | Description
 - [Live Demo](https://youtube-dl-php.pxgamer.xyz)
 - [User Script for YouTube](https://greasyfork.org/en/scripts/23560)
 
-## Change log
+## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
 
